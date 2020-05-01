@@ -11,6 +11,8 @@ intelligent dashboard for Property Managers to increase their profitability. By 
 Tableau, we developed geographical heat maps and trend visualizations to highlight areas
 of market dearth or saturation within the residential gig space in New York City.
 
+<img src="tableau-logo.jpg" alt="Logo" width="150px" hight="150px">
+
 ## Authors
 
 * **Konstantinos Ntalis**
