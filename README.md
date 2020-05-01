@@ -2,7 +2,7 @@
 
 Final project for CS 5304 Data Science in the Wild at Cornell Tech.
 
-## What is this
+## Abstract
 
 As the gig economy expands, Property Managers seek new ways to intelligently manage
 their portfolio of Airbnb properties and hosts. This paper details the exploration of a dataset
